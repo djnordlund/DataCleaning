@@ -15,7 +15,7 @@ unzip("datasets.zip")
 ```
 
 ## Creation of the 'UCI_HAR_summary_dataset.txt'
-The required summary dataset was produced by running the 'run_analysis.R' program located in this repository.  The program can be run from the current by copying the program into the current working directory and then executing the command
+The required summary dataset was produced by running the 'run_analysis.R' script located in this repository.  The program should be run by copying the script into the current working directory and then executing the command
 
 ```
 source('run_analysis.R')
