@@ -23,7 +23,7 @@
 ##          ./UCI HAR Dataset/test/Y_test.txt
 ##          ./UCI HAR Dataset/test/subject_test.txt
 ##          
-## Output:  ./UCI_HAR_Analysis_Dataset.txt
+## Output:  ./UCI_HAR_Summary_Dataset.txt
 ## 
 ## Prior Program: download the 'UCI HAR Dataset' .zip file and unzip in current working directory
 ## Next Program:
