@@ -13,6 +13,7 @@
 ##                https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ##                and unzipped into the user's current working directory 
 ##          
+## Required packages: stringr, plyr
 ##          
 ## Input:   ./UCI HAR Dataset/activity_labels.txt
 ##          ./UCI HAR Dataset/features.txt

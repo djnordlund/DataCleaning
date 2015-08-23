@@ -4,6 +4,9 @@
 
 The purpose of this project was to download the data that was collected as part of a study on the identification of different types of physical activity using data collected from cell phones. Descriptions of the original study and data sets can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The final product was to be a "tidy" dataset that summarized the original data.
 
+## Required R packages
+The stringr and plyr need to be installed to run this program
+
 ## Data acqusition
 
 The data sets for this project are contained in a single zip archive file. The data was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped into the current working directory in R using the following code:
